@@ -4,10 +4,6 @@
   Odoo developer · ERP customization · business automation
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vipul-Chaudhary01&label=Profile%20views&color=714B67&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 💫 About Me
@@ -31,7 +27,7 @@
 **Languages and backend**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -39,7 +35,7 @@
 **Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -57,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vipul-Chaudhary01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vipul-Chaudhary01&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul-Chaudhary01&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top languages"/>
 </p>
 
